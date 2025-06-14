@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/go-chi/chi/v5"
-	"github.com/rahulmjain24/crud-server/handlers/auth"
+	"github.com/rahulmjain24/go-server/handlers/auth"
 )
 
 func AuthRoutes() chi.Router {

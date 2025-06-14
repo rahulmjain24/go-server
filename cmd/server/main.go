@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/rahulmjain24/crud-server/api"
-	"github.com/rahulmjain24/crud-server/config"
+	"github.com/rahulmjain24/go-server/api"
+	"github.com/rahulmjain24/go-server/config"
 )
 
 func main() {

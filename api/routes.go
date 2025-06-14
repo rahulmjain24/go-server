@@ -3,7 +3,7 @@ package api
 import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/rahulmjain24/crud-server/handlers"
+	"github.com/rahulmjain24/go-server/handlers"
 )
 
 func RegisterRoutes() *chi.Mux {
